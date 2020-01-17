@@ -31,8 +31,8 @@ GPIO.setup(12, GPIO.OUT)
 p = GPIO.PWM(12, 120) 
 p.start(0)
 
-pwm=99;
 
+pwm=99
 
 message_commands = {
     'GET_RPM': 0xF40C,
@@ -160,8 +160,10 @@ class CanListener(can.Listener):
     
         
         
-    def on_message_received(self, message):
-        print('get Message!!!!!');
+    def on_message_received(self, message):    
+        
+        print('get Message!!!!!')
+        global pwm 
         #print nowTime
         self.dashboard.clock.text = datetime.datetime.now().strftime("%H:%M               %d/%m/%y")
        
@@ -171,7 +173,7 @@ class CanListener(can.Listener):
         if message.arbitration_id == 0x77E and message_command == message_commands['GET_GEAR']:
             self.gear_states.current = message.data[5] | message.data[4] << 8         
             if self.gear_states.last_is_not_now():
-                gear = self.gear_states.current / 22 
+                gear = int(self.gear_states.current / 21.2 * 100)
                 self.dashboard.gear.text = str(gear)
                 self.gear_states.last = self.gear_states.current
                 
@@ -637,7 +639,7 @@ class CanListener(can.Listener):
                 self.gabarity_states.last = self.gabarity_states.current
             if self.gabarity_states.current != 0:
                 try:
-                    pwm=60
+                    pwm=30
                     self.dashboard.remove_widget(self.dashboard.gabarity_grey)
                     self.dashboard.add_widget(self.dashboard.gabarity_green)
                 except:
@@ -654,7 +656,8 @@ class CanListener(can.Listener):
         if message.arbitration_id == 0x77E and message_command == message_commands['GET_TACHOMETER']:
             self.rpm_states.current = message.data[5] | message.data[4] << 8 
             if self.rpm_states.last_is_not_now():
-                self.dashboard.rpm.value = self.rpm_states.current * 11.25
+                self.dashboard.rpm.value = int(self.rpm_states.current * 11.7)
+                print "dashboard.rpm.value", int(self.rpm_states.current * 11.7)
                 self.rpm_states.last = self.rpm_states.current
 
          
@@ -1050,7 +1053,7 @@ class Dashboard(FloatLayout):
         self.fuel_bar.height = 0
         
         # Gear
-        self.gear = Label(text='0', font_size=120, font_name='FZ_DIGITAL_11.ttf', pos=(700, 20))
+        self.gear = Label(text='0', font_size=64, font_name='FZ_DIGITAL_11.ttf', pos=(700, 20))
         self.add_widget(self.gear)   
         
         # Ryad
@@ -1135,7 +1138,7 @@ class RequestsLoop(Thread):
         while 1:
             p.ChangeDutyCycle(pwm)
             print "PWM is ",str(pwm)
-            time.sleep(2)
+            time.sleep(1)
         
 
 

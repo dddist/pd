@@ -1,4 +1,4 @@
-[INFO   ] [Logger      ] Record log in /root/.kivy/logs/kivy_20-01-16_10.txt
+[INFO   ] [Logger      ] Record log in /root/.kivy/logs/kivy_20-01-17_4.txt
 [INFO   ] [Image       ] Providers: img_tex, img_dds, img_sdl2, img_pil, img_gif (img_ffpyplayer ignored)
 [INFO   ] [Kivy        ] v1.10.0
 [INFO   ] [Python      ] v2.7.9 (default, Sep 16 2019, 18:29:54) 
@@ -21,2602 +21,40 @@
 [INFO   ] [GL          ] NPOT texture support is available
 [INFO   ] [GL          ] Unpack subimage support is available
 [INFO   ] [OSC         ] using <multiprocessing> for socket
+[INFO   ] [ProbeSysfs  ] device match: /dev/input/event1
+[INFO   ] [MTD         ] Read event from </dev/input/event1>
+[INFO   ] [ProbeSysfs  ] device match: /dev/input/event0
+[INFO   ] [MTD         ] Read event from </dev/input/event0>
+[INFO   ] [ProbeSysfs  ] device match: /dev/input/event1
+[INFO   ] [HIDInput    ] Read event from </dev/input/event1>
+[INFO   ] [ProbeSysfs  ] device match: /dev/input/event0
+[INFO   ] [HIDInput    ] Read event from </dev/input/event0>
+[INFO   ] [ProbeSysfs  ] device match: /dev/input/event1
+[INFO   ] [HIDInput    ] Read event from </dev/input/event1>
+[INFO   ] [ProbeSysfs  ] device match: /dev/input/event0
+[INFO   ] [HIDInput    ] Read event from </dev/input/event0>
 [INFO   ] [Base        ] Start application main loop
-The current local date time is  19:19 16/01/2020
+[INFO   ] [MTD         ] </dev/input/event1> range position X is 0 - 0
+[INFO   ] [MTD         ] </dev/input/event1> range position Y is 0 - 0
+[INFO   ] [MTD         ] </dev/input/event1> range touch major is 0 - 0
+[INFO   ] [MTD         ] </dev/input/event1> range touch minor is 0 - 0
+[INFO   ] [MTD         ] </dev/input/event1> range pressure is 0 - 255
+[INFO   ] [MTD         ] </dev/input/event0> range position X is 0 - 0
+[INFO   ] [MTD         ] </dev/input/event1> axes invertion: X is 0, Y is 0
+[INFO   ] [MTD         ] </dev/input/event0> range position Y is 0 - 0
+[INFO   ] [HIDMotionEvent] using <HID 0911:2188>
+[INFO   ] [MTD         ] </dev/input/event1> rotation set to 0
+[INFO   ] [HIDMotionEvent] using <HID 0911:2188>
+[INFO   ] [MTD         ] </dev/input/event0> range touch major is 0 - 0
+[INFO   ] [HIDMotionEvent] using <HID 0911:2188>
+[INFO   ] [MTD         ] </dev/input/event0> range touch minor is 0 - 0
+[INFO   ] [MTD         ] </dev/input/event0> range pressure is 0 - 255
+[INFO   ] [MTD         ] </dev/input/event0> axes invertion: X is 0, Y is 0
+[INFO   ] [HIDMotionEvent] using <HID 0911:2188>
+[INFO   ] [MTD         ] </dev/input/event0> rotation set to 0
+The current local date time is  09:49 17/01/2020
 PWM is  99
-The current local date time is  19:19 16/01/2020
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-The current local date time is  19:19 16/01/2020
-PWM is  99
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-The current local date time is  19:19 16/01/2020
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-The current local date time is  19:19 16/01/2020
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PWM is  99
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-The current local date time is  19:19 16/01/2020
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-The current local date time is  19:19 16/01/2020
-PWM is  99
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-The current local date time is  19:19 16/01/2020
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-The current local date time is  19:19 16/01/2020
-PWM is  99
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-The current local date time is  19:19 16/01/2020
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-The current local date time is  19:19 16/01/2020
-PWM is  99
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-The current local date time is  19:19 16/01/2020
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-The current local date time is  19:19 16/01/2020
-PWM is  99
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-The current local date time is  19:19 16/01/2020
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-The current local date time is  19:19 16/01/2020
-PWM is  99
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-The current local date time is  19:19 16/01/2020
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-The current local date time is  19:19 16/01/2020
-PWM is  99
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-The current local date time is  19:19 16/01/2020
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-The current local date time is  19:19 16/01/2020
-PWM is  99
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-The current local date time is  19:19 16/01/2020
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-The current local date time is  19:19 16/01/2020
-PWM is  99
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-The current local date time is  19:19 16/01/2020
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-The current local date time is  19:19 16/01/2020
-PWM is  99
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-The current local date time is  19:19 16/01/2020
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-The current local date time is  19:19 16/01/2020
-PWM is  99
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-The current local date time is  19:19 16/01/2020
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-The current local date time is  19:19 16/01/2020
-PWM is  99
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-The current local date time is  19:19 16/01/2020
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-The current local date time is  19:19 16/01/2020
-PWM is  99
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-The current local date time is  19:19 16/01/2020
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-The current local date time is  19:19 16/01/2020
-PWM is  99
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-The current local date time is  19:19 16/01/2020
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-The current local date time is  19:19 16/01/2020
-PWM is  99
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-The current local date time is  19:19 16/01/2020
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-The current local date time is  19:19 16/01/2020
-PWM is  99
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-The current local date time is  19:19 16/01/2020
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-The current local date time is  19:19 16/01/2020
-PWM is  99
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-The current local date time is  19:19 16/01/2020
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-The current local date time is  19:19 16/01/2020
-PWM is  99
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-The current local date time is  19:19 16/01/2020
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-The current local date time is  19:19 16/01/2020
-PWM is  99
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-The current local date time is  19:19 16/01/2020
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-The current local date time is  19:19 16/01/2020
-get Message!!!!!
-PWM is  99
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-The current local date time is  19:19 16/01/2020
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-The current local date time is  19:19 16/01/2020
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
+The current local date time is  09:49 17/01/2020
 PWM is  99
 get Message!!!!!
 get Message!!!!!
@@ -2627,54 +65,6 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-The current local date time is  19:19 16/01/2020
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
 PEREGREV MSG: ; 0
 get Message!!!!!
 get Message!!!!!
@@ -2728,10 +118,6 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-The current local date time is  19:19 16/01/2020
-get Message!!!!!
-get Message!!!!!
-PWM is  99
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -2740,51 +126,6 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-The current local date time is  19:19 16/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -2841,31 +182,6 @@ get Message!!!!!
 get Message!!!!!
 PEREGREV MSG: ; 0
 get Message!!!!!
-The current local date time is  19:19 16/01/2020
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-PWM is  99
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
 get Message!!!!!
 +++++ Check GABRITY ++++++
 get Message!!!!!
@@ -2902,55 +218,9 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-The current local date time is  19:19 16/01/2020
+The current local date time is  09:49 17/01/2020
 get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-The current local date time is  19:19 16/01/2020
+ PWM is  100
  get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -2959,7 +229,6 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 PEREGREV MSG: ; 0
-PWM is  99
 get Message!!!!!
 get Message!!!!!
 +++++ Check GABRITY ++++++
@@ -3020,7 +289,6 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-The current local date time is  19:19 16/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -3044,6 +312,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+The current local date time is  09:49 17/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -3061,14 +330,13 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+PWM is  100
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-The current local date time is  19:19 16/01/2020
-PWM is  99
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -3124,6 +392,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 PEREGREV MSG: ; 0
+The current local date time is  09:49 17/01/2020
 get Message!!!!!
 get Message!!!!!
 +++++ Check GABRITY ++++++
@@ -3138,7 +407,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-The current local date time is  19:19 16/01/2020
+PWM is  100
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -3185,8 +454,6 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-The current local date time is  19:19 16/01/2020
-PWM is  99
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -3210,6 +477,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+The current local date time is  09:49 17/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -3233,6 +501,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+PWM is  100
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -3256,7 +525,6 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-The current local date time is  19:19 16/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -3303,8 +571,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-The current local date time is  19:20 16/01/2020
-PWM is  99
+The current local date time is  09:49 17/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -3326,6 +593,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+PWM is  100
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -3374,7 +642,6 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-The current local date time is  19:20 16/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -3390,6 +657,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+The current local date time is  09:49 17/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -3398,6 +666,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+PWM is  100
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -3421,8 +690,6 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-The current local date time is  19:20 16/01/2020
-PWM is  99
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -3469,6 +736,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+The current local date time is  09:49 17/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -3492,7 +760,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-The current local date time is  19:20 16/01/2020
+PWM is  100
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -3539,8 +807,6 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-The current local date time is  19:20 16/01/2020
-PWM is  99
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -3564,6 +830,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+The current local date time is  09:49 17/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -3587,6 +854,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+PWM is  100
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -3610,7 +878,6 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-The current local date time is  19:20 16/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -3653,16 +920,16 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+The current local date time is  09:49 17/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-The current local date time is  19:20 16/01/2020
-PWM is  99
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+PWM is  100
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -3728,7 +995,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-The current local date time is  19:20 16/01/2020
+The current local date time is  09:49 17/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -3752,6 +1019,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+PWM is  100
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -3775,8 +1043,6 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-The current local date time is  19:20 16/01/2020
-PWM is  99
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -3823,6 +1089,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+The current local date time is  09:49 17/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -3845,8 +1112,8 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-The current local date time is  19:20 16/01/2020
 get Message!!!!!
+PWM is  100
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -3893,8 +1160,6 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-The current local date time is  19:20 16/01/2020
-PWM is  99
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -3918,6 +1183,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+The current local date time is  09:49 17/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -3930,6 +1196,7 @@ PEREGREV MSG: ; 0
 get Message!!!!!
 get Message!!!!!
 +++++ Check GABRITY ++++++
+PWM is  100
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -3959,7 +1226,6 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-The current local date time is  19:20 16/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -3988,6 +1254,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+The current local date time is  09:49 17/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -4011,8 +1278,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-The current local date time is  19:20 16/01/2020
-PWM is  99
+PWM is  100
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -4073,7 +1339,6 @@ get Message!!!!!
 +++++ Check GABRITY ++++++
 get Message!!!!!
 get Message!!!!!
-The current local date time is  19:20 16/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -4083,6 +1348,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+The current local date time is  09:49 17/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -4106,6 +1372,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+PWM is  100
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -4129,8 +1396,6 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-The current local date time is  19:20 16/01/2020
-PWM is  99
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -4177,6 +1442,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+The current local date time is  09:49 17/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -4186,7 +1452,6 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 PEREGREV MSG: ; 0
-The current local date time is  19:20 16/01/2020
 get Message!!!!!
 get Message!!!!!
 +++++ Check GABRITY ++++++
@@ -4195,6 +1460,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+PWM is  100
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -4247,13 +1513,12 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-The current local date time is  19:20 16/01/2020
-PWM is  99
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+The current local date time is  09:49 17/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -4272,6 +1537,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+PWM is  100
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -4295,7 +1561,6 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-The current local date time is  19:20 16/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -4342,6 +1607,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+The current local date time is  09:49 17/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -4365,8 +1631,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-PWM is  99
-The current local date time is  19:20 16/01/2020
+PWM is  100
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -4413,7 +1678,6 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-The current local date time is  19:20 16/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -4437,6 +1701,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+The current local date time is  09:49 17/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -4457,6 +1722,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+PWM is  100
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -4483,8 +1749,6 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-PWM is  99
-The current local date time is  19:20 16/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -4523,6 +1787,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+The current local date time is  09:49 17/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -4531,7 +1796,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-The current local date time is  19:20 16/01/2020
+PWM is  100
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -4601,8 +1866,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-PWM is  99
-The current local date time is  19:20 16/01/2020
+The current local date time is  09:49 17/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -4626,6 +1890,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+PWM is  100
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -4649,7 +1914,6 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-The current local date time is  19:20 16/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -4696,6 +1960,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+The current local date time is  09:49 17/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -4719,8 +1984,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-PWM is  99
-The current local date time is  19:20 16/01/2020
+PWM is  100
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -4767,7 +2031,6 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-The current local date time is  19:20 16/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -4787,6 +2050,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+The current local date time is  09:49 17/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -4796,6 +2060,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+PWM is  100
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -4837,8 +2102,6 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-PWM is  99
-The current local date time is  19:20 16/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -4862,6 +2125,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+The current local date time is  09:49 17/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -4885,7 +2149,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-The current local date time is  19:20 16/01/2020
+PWM is  100
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -4955,8 +2219,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-PWM is  99
-The current local date time is  19:20 16/01/2020
+The current local date time is  09:49 17/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -4980,6 +2243,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+PWM is  100
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -5003,7 +2267,6 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-The current local date time is  19:20 16/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -5050,10 +2313,12 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+The current local date time is  09:49 17/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+PWM is  100
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -5073,8 +2338,6 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-PWM is  99
-The current local date time is  19:20 16/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -5121,7 +2384,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-The current local date time is  19:20 16/01/2020
+The current local date time is  09:49 17/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -5145,6 +2408,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+PWM is  100
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -5189,8 +2453,6 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-PWM is  99
-The current local date time is  19:20 16/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -5216,6 +2478,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+The current local date time is  09:49 17/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -5239,7 +2502,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-The current local date time is  19:20 16/01/2020
+PWM is  100
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -5303,14 +2566,13 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-PWM is  99
 get Message!!!!!
-The current local date time is  19:20 16/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+The current local date time is  09:49 17/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -5327,6 +2589,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+PWM is  100
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -5357,7 +2620,6 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-The current local date time is  19:20 16/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -5391,6 +2653,7 @@ get Message!!!!!
 get Message!!!!!
 PEREGREV MSG: ; 0
 get Message!!!!!
+The current local date time is  09:49 17/01/2020
 get Message!!!!!
 +++++ Check GABRITY ++++++
 get Message!!!!!
@@ -5404,6 +2667,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+PWM is  100
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -5417,10 +2681,8 @@ get Message!!!!!
 get Message!!!!!
 +++++ Check GABRITY ++++++
 get Message!!!!!
-PWM is  99
 get Message!!!!!
 get Message!!!!!
-The current local date time is  19:20 16/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -5475,7 +2737,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-The current local date time is  19:20 16/01/2020
+The current local date time is  09:49 17/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -5499,6 +2761,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+PWM is  100
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -5531,9 +2794,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 PEREGREV MSG: ; 0
-PWM is  99
 get Message!!!!!
-The current local date time is  19:20 16/01/2020
 get Message!!!!!
 +++++ Check GABRITY ++++++
 get Message!!!!!
@@ -5570,6 +2831,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+The current local date time is  09:49 17/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -5590,10 +2852,10 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+PWM is  100
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-The current local date time is  19:20 16/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -5640,16 +2902,1428 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-PWM is  99
 get Message!!!!!
-The current local date time is get Message!!!!!
- 19:20 16/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+The current local date time is  09:49 17/01/2020
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PWM is  100
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+The current local date time is  09:49 17/01/2020
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PWM is  100
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+The current local date time is  09:49 17/01/2020
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PWM is  100
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+The current local date time is  09:49 17/01/2020
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PWM is  100
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+The current local date time is  09:49 17/01/2020
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PWM is  100
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+The current local date time is  09:49 17/01/2020
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PWM is  100
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+The current local date time is  09:49 17/01/2020
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+PWM is  100
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+The current local date time is  09:49 17/01/2020
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PWM is  100
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+The current local date time is  09:49 17/01/2020
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PWM is  100
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+The current local date time is  09:49 17/01/2020
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PWM is  100
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+The current local date time is  09:49 17/01/2020
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PWM is  100
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+The current local date time is  09:49 17/01/2020
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PWM is  100
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+The current local date time is  09:49 17/01/2020
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PWM is  100
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+The current local date time is  09:49 17/01/2020
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PWM is  100
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+The current local date time is  09:49 17/01/2020
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PWM is  100
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+The current local date time is  09:49 17/01/2020
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PWM is  100
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+The current local date time is  09:49 17/01/2020
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PWM is  100
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
 PEREGREV MSG: ; 0
 get Message!!!!!
 get Message!!!!!
@@ -5711,7 +4385,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-The current local date time is  19:20 16/01/2020
+The current local date time is  09:49 17/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -5735,6 +4409,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+PWM is  100
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -5758,8 +4433,6 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-PWM is  99
-The current local date time is  19:20 16/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -5806,6 +4479,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+The current local date time is  09:49 17/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -5829,7 +4503,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-The current local date time is  19:20 16/01/2020
+PWM is  100
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -5876,8 +4550,6 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-PWM is  99
-The current local date time is  19:20 16/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -5900,6 +4572,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+The current local date time is  09:49 17/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -5908,6 +4581,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+PWM is  100
 get Message!!!!!
 PEREGREV MSG: ; 0
 get Message!!!!!
@@ -5947,7 +4621,6 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-The current local date time is  19:20 16/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -5971,6 +4644,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+The current local date time is  09:50 17/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -5994,8 +4668,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-PWM is  99
-The current local date time is  19:20 16/01/2020
+PWM is  100
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -6065,7 +4738,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-The current local date time is  19:20 16/01/2020
+The current local date time is  09:50 17/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -6089,6 +4762,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+PWM is  100
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -6112,8 +4786,6 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-PWM is  99
-The current local date time is  19:20 16/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -6160,6 +4832,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+The current local date time is  09:50 17/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -6168,6 +4841,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+PWM is  100
 PEREGREV MSG: ; 0
 get Message!!!!!
 get Message!!!!!
@@ -6183,7 +4857,6 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-The current local date time is  19:20 16/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -6230,14 +4903,13 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-PWM is  99
-The current local date time is  19:20 16/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+The current local date time is  09:50 17/01/2020
 get Message!!!!!
 get Message!!!!!
 PEREGREV MSG: ; 0
@@ -6255,6 +4927,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+PWM is  100
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -6301,7 +4974,6 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-The current local date time is  19:20 16/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -6325,6 +4997,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+The current local date time is  09:50 17/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -6348,8 +5021,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-PWM is  99
-The current local date time is  19:20 16/01/2020
+PWM is  100
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -6419,7 +5091,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-The current local date time is  19:20 16/01/2020
+The current local date time is  09:50 17/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -6437,6 +5109,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+PWM is  100
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -6455,6 +5128,17 @@ PEREGREV MSG: ; 0
 get Message!!!!!
 get Message!!!!!
 +++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -6463,11 +5147,17 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-PWM is  99
-The current local date time is  19:20 16/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -6476,6 +5166,11 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+The current local date time is  09:50 17/01/2020
+ get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
 PEREGREV MSG: ; 0
 get Message!!!!!
 get Message!!!!!
@@ -6491,6 +5186,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+PWM is  100
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -6536,7 +5232,6 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-The current local date time is  19:20 16/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -6561,6 +5256,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+The current local date time is  09:50 17/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -6584,8 +5280,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-PWM is  99
-The current local date time is  19:20 16/01/2020
+PWM is  100
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -6650,12 +5345,12 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-The current local date time is  19:20 16/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+The current local date time is  09:50 17/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -6677,6 +5372,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+PWM is  100
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -6702,8 +5398,6 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-PWM is  99
-The current local date time is  19:20 16/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -6744,12 +5438,14 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+The current local date time is  09:50 17/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+PWM is  100
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -6765,7 +5461,6 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-The current local date time is  19:20 16/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -6820,8 +5515,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-PWM is  99
-The current local date time is  19:21 16/01/2020
+The current local date time is  09:50 17/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -6845,6 +5539,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+PWM is  100
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -6878,7 +5573,6 @@ get Message!!!!!
 get Message!!!!!
 PEREGREV MSG: ; 0
 get Message!!!!!
-The current local date time is  19:21 16/01/2020
 get Message!!!!!
 +++++ Check GABRITY ++++++
 get Message!!!!!
@@ -6915,6 +5609,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+The current local date time is  09:50 17/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -6938,8 +5633,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-PWM is  99
-The current local date time is  19:21 16/01/2020
+PWM is  100
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -6975,7 +5669,29 @@ PEREGREV MSG: ; 0
 get Message!!!!!
 get Message!!!!!
 +++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
 get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -6984,134 +5700,18 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
+The current local date time is  09:50 17/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-get Message!!!!!The current local date time is  19:21 16/01/2020
+PWM is  100get Message!!!!!
 
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PWM is  99
-The current local date time is  19:21 16/01/2020
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-The current local date time is  19:21 16/01/2020
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
 get Message!!!!!
 PEREGREV MSG: ; 0
 get Message!!!!!
@@ -7174,8 +5774,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-PWM is  99
-The current local date time is  19:21 16/01/2020
+The current local date time is  09:50 17/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -7199,30 +5798,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-The current local date time is  19:21 16/01/2020
+PWM is  100
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -7292,8 +5868,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-PWM is  99
-The current local date time is  19:21 16/01/2020
+The current local date time is  09:50 17/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -7317,148 +5892,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-The current local date time is  19:21 16/01/2020
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PWM is  99
-The current local date time is  19:21 16/01/2020
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-The current local date time is  19:21 16/01/2020
+PWM is  100
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -7528,8 +5962,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-PWM is  99
-The current local date time is  19:21 16/01/2020
+The current local date time is  09:50 17/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -7540,55 +5973,9 @@ get Message!!!!!
 get Message!!!!!
 PEREGREV MSG: ; 0
 get Message!!!!!
-get Message!!!!!
+PWM is  get Message!!!!!
 +++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-The current local date time is  19:21 16/01/2020
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
+100
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -7646,8 +6033,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-PWM is  99
-The current local date time is  19:21 16/01/2020
+The current local date time is  09:50 17/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -7671,30 +6057,7 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-PEREGREV MSG: ; 0
-get Message!!!!!
-get Message!!!!!
-+++++ Check GABRITY ++++++
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-get Message!!!!!
-The current local date time is  19:21 16/01/2020
+PWM is  100
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -7763,9 +6126,8 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
-PWM is  99
 get Message!!!!!
-The current local date time is  19:21 16/01/2020
+The current local date time is  09:50 17/01/2020
 get Message!!!!!
 get Message!!!!!
 get Message!!!!!
@@ -7775,3 +6137,2020 @@ get Message!!!!!
 get Message!!!!!
 get Message!!!!!
 PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PWM is  100
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+The current local date time is  09:50 17/01/2020
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PWM is  100
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+The current local date time is  09:50 17/01/2020
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PWM is  100
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+The current local date time is  09:50 17/01/2020
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PWM is  100
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+The current local date time is  09:50 17/01/2020
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PWM is  100
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+The current local date time is  09:50 17/01/2020
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PWM is  100
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+The current local date time is  09:50 17/01/2020
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PWM is  100
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+The current local date time is  09:50 17/01/2020
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PWM is  100
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+The current local date time is  09:50 17/01/2020
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PWM is  100
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+The current local date time is  09:50 17/01/2020
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PWM is  100
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+The current local date time is  09:50 17/01/2020
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PWM is  100
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+The current local date time is  09:50 17/01/2020
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+PWM is  100
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+The current local date time is  09:50 17/01/2020
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PWM is  100
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+The current local date time is  09:50 17/01/2020
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PWM is  100
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+The current local date time is  09:50 17/01/2020
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+PWM is  100
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+The current local date time is  09:50 17/01/2020
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PWM is  100
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+The current local date time is  09:50 17/01/2020
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PWM is  100
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+The current local date time is  09:50 17/01/2020
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PWM is  100
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+The current local date time is  09:50 17/01/2020
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PWM is  100
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+The current local date time is  09:50 17/01/2020
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PWM is  100
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+The current local date time is  09:50 17/01/2020
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PWM is  100
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+The current local date time is  09:50 17/01/2020
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PWM is  100
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+The current local date time is  09:50 17/01/2020
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PWM is  100
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!![INFO   ] [Base        ] Leaving application in progress...
+!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+The current local date time is  09:50 17/01/2020
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PEREGREV MSG: ; 0
+get Message!!!!!
+get Message!!!!!
++++++ Check GABRITY ++++++
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+get Message!!!!!
+PWM is  100
