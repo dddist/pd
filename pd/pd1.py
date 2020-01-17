@@ -656,7 +656,7 @@ class CanListener(can.Listener):
         if message.arbitration_id == 0x77E and message_command == message_commands['GET_TACHOMETER']:
             self.rpm_states.current = message.data[5] | message.data[4] << 8 
             if self.rpm_states.last_is_not_now():
-                self.dashboard.rpm.value = int(self.rpm_states.current * 11.7)
+                self.dashboard.rpm.value = self.rpm_states.current * 11.7
                 #print "dashboard.rpm.value", int(self.rpm_states.current * 11.7)
                 self.rpm_states.last = self.rpm_states.current
 
